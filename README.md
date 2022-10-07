@@ -1,1 +1,3 @@
-Slides for various events produced using [Pandoc](https://github.com/jgm/pandoc).
+# Slides
+
+Slides for various events generated from markdown using [Pandoc](https://github.com/jgm/pandoc) published under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
