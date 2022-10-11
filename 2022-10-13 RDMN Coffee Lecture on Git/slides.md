@@ -31,19 +31,19 @@ date:
 
 # Local version control
 
-[![](images/local.png "Local version control")]
+![](images/local.png "Local version control")
 
 - Solves the problem of error-prone manual versioning of files.
 
 # Centralized version control
 
-[![](images/centralized.png "Centralized version control")](https://github.com/progit/progit2/blob/main/images/centralized.png)
+![](images/centralized.png "Centralized version control")
 
 - Solves the problem of how to work on the same files together on different computers.
 
 # Distributed version control
 
-[![](images/distributed.png "Distributed version control")]
+![](images/distributed.png "Distributed version control")
 
 - Solves the problem of being dependent on central server for work and backup.
 
