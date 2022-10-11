@@ -16,7 +16,9 @@ date:
 
 # Today's Goal
 
-- Get you in a position to decide if Git might be useful for your work.
+![](images/git.png "'An expressive oil painting of a programmer failing to use Git' by Maximilian Hindermann and DALLE-2")
+
+Get you in a position to decide if Git might be useful for your work.
 
 # What is Git?
 
