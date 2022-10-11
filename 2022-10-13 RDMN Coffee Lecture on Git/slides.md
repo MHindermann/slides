@@ -51,11 +51,27 @@ Get you in a position to decide if Git might be useful for your work.
 
 # Using Git
 
-- command line; GitLab, GitHub...
+![](images/use.png)
 
-# Git(Lab) at Unibas
+After installation on your computer, you can use Git:
 
-Several GitLab instances at Unibas but none run as official university-wide service:
+- via the command line
+- via one of many [GUI-clients](https://git-scm.com/downloads/guis)
+- via most common IDEs
+
+# Git repository hosting services
+
+But where do I host my Git repository? Do I have to configure a server myself? 
+
+- No. In practice, most users rely on a commercial Git repository hosting service such as [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [Bitbucket](https://bitbucket.org/), or others.
+![](images/logos.png)
+- Git repository hosting services do not replace but extend Git!
+
+# GitLab at Unibas
+
+In contrast to GitHub, GitLab can be installed on your own infrastructure (e.g., required for sensitive data).
+
+There are several GitLab instances at Unibas but none run as official university-wide service:
 
 - https://git.scicore.unibas.ch/
 - https://gitlab.psychologie.unibas.ch/
