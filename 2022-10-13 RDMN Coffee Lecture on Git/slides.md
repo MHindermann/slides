@@ -82,7 +82,9 @@ If there are instances missing please get in touch!
 
 # Looking at a sample GitHub repository
 
-The GitHub repository for these slides is available at: https://github.com/MHindermann/slides/tree/main/2022-10-13%20RDMN%20Coffee%20Lecture%20on%20Git
+![](images/inception.png "Alex Eylar, 'Inception', CC BY-NA-SA 2.0")
+
+The GitHub repository for [these slides](https://github.com/MHindermann/slides/tree/main/2022-10-13%20RDMN%20Coffee%20Lecture%20on%20Git). Image credits: [Alex Eylar, 'Inception', CC BY-NA-SA 2.0](https://www.flickr.com/photos/hoyvinmayvin/4829301976).
 
 # Further reading
 
