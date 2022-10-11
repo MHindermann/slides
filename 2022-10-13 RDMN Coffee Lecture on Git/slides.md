@@ -18,13 +18,20 @@ date:
 
 - Get you in a position to decide if Git might be useful for your work.
 
- # What is Git?
+# What is Git?
 
 - text
 
 # Git at Unibas
 
-- text
+Several GitLab instances but none run as official universitywide service:
+
+- https://git.scicore.unibas.ch/
+- https://gitlab.psychologie.unibas.ch/
+- https://gitlab.switch.ch/ub-unibas/
+- https://gitlab.its.unibas.ch/
+
+If there are instances missing please get in touch!
 
 # Looking at an example
 
