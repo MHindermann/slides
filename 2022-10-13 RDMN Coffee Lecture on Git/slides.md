@@ -45,7 +45,7 @@ If there are instances missing please get in touch!
 # Further reading
 
 - Tons of material online
-- Scott Chacon and Ben Straub (2014): Pro Git, available at https://git-scm.com/book/de/v2
+- [Scott Chacon and Ben Straub (2014): Pro Git](https://git-scm.com/book/en/v2)
 - Bern Öggl and Michael Kofler (2022): Git. Projektverwaltung für Entwickler und DevOps-Teams
 
 # Contact
