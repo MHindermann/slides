@@ -27,31 +27,31 @@ date:
     - a CSV file recording numerical weather data for Basel
     - a JSON-LD file containing a Tropy database
     - an SVG file of a research project's fancy new logo
-- Git is less well suited for binary data such as audio data, images or video.
+- Git is less well suited for binary data such as audio data, images or video (changes in these files are opaque).
 
 # Local version control
 
 [![](images/local.png "Local version control")]
 
-- Solves problem of error-prone manual versioning of files.
+- Solves the problem of error-prone manual versioning of files.
 
 # Centralized version control
 
 [![](images/centralized.png "Centralized version control")](https://github.com/progit/progit2/blob/main/images/centralized.png)
 
-- Solves problem of how to work on the same files together on different computers.
+- Solves the problem of how to work on the same files together on different computers.
 
 # Distributed version control
 
 [![](images/distributed.png "Distributed version control")]
 
-- Solves problem of being dependent on central server for work and backup.
+- Solves the problem of being dependent on central server for work and backup.
 
 # Using Git
 
 - command line; GitLab, GitHub...
 
-# Git at Unibas
+# Git(Lab) at Unibas
 
 Several GitLab instances at Unibas but none run as official university-wide service:
 
@@ -62,9 +62,9 @@ Several GitLab instances at Unibas but none run as official university-wide serv
 
 If there are instances missing please get in touch!
 
-# Looking at an example
+# Looking at a sample GitHub repository
 
-- GitHub repository for these slides: https://github.com/MHindermann/slides/tree/main/2022-10-13%20RDMN%20Coffee%20Lecture%20on%20Git
+The GitHub repository for these slides is available at: https://github.com/MHindermann/slides/tree/main/2022-10-13%20RDMN%20Coffee%20Lecture%20on%20Git
 
 # Further reading
 
