@@ -31,7 +31,7 @@ date:
 
 # Local version control
 
-[![](images/local.png "Local version control")](https://github.com/progit/progit2/blob/main/images/local.png)
+[![](images/local.png "Local version control")]
 
 - Solves problem of error-prone manual versioning of files.
 
@@ -43,7 +43,7 @@ date:
 
 # Distributed version control
 
-[![](images/distributed.png "Distributed version control")](https://github.com/progit/progit2/blob/main/images/centralized.png)
+[![](images/distributed.png "Distributed version control")]
 
 - Solves problem of being dependent on central server for work and backup.
 
