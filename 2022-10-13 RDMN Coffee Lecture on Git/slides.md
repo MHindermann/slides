@@ -29,6 +29,7 @@ Get you in a position to decide if Git might be useful for your work.
     - a CSV file recording numerical weather data for Basel
     - a JSON-LD file containing a Tropy database
     - an SVG file of a research project's fancy new logo
+    - a TXT file containing a novel from Project Gutenberg
 - Git is less well suited for binary data such as audio data, images or video (changes in these files are opaque).
 
 # Local version control
@@ -92,7 +93,7 @@ Image credits: [Alex Eylar, "Inception", CC BY-NA-SA 2.0](https://www.flickr.com
 
 - Tons of material online
 - [Scott Chacon and Ben Straub (2014): Pro Git](https://git-scm.com/book/en/v2)
-- Bern Öggl and Michael Kofler (2022): Git. Projektverwaltung für Entwickler und DevOps-Teams
+- Bernd Öggl and Michael Kofler (2022): Git. Projektverwaltung für Entwickler und DevOps-Teams
 
 # Contact
 
